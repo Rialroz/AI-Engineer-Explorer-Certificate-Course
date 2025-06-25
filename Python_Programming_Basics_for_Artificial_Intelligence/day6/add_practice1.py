@@ -1,6 +1,6 @@
 def read_items_file(filename):
     try:
-        with open(filename, as file:
+        with open(filename, "r") as file:
             items = [item.strip() for item in file.readlines()]
             print("Items in the file:")
             for item in items:
