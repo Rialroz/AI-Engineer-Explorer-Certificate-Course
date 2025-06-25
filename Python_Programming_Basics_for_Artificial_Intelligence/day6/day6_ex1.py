@@ -1,6 +1,6 @@
 def count_words_and_lines(filename):
     try:
-        with open(filename, "r") as file:
+        with open(filename, "":
             lines = file.readlines()
             line_count = len(lines)
             word_count = sum(len(line.split()) for line in lines)
@@ -10,7 +10,7 @@ def count_words_and_lines(filename):
     except FileNotFoundError:
         print(f"File {filename} not found!")
         
-count_words_and_lines(r"Python_Programming_Basics_for_Artificial_Intelligence/Day6/sample.txt")
+count_words_and_lines("sample.txt")
 
 
 
