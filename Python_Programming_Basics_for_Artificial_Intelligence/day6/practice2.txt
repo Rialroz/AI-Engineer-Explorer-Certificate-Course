@@ -1,0 +1,19 @@
+Python is a programming language.
+Python is widely used in AI and machine learning.
+Python is also popular for web development.
+Python is known for its simplicity and readability.
+This is a long text that contains multiple lines.
+It is used to demonstrate how to read and process text files in Python.
+You can use triple quotes to define a multi-line string.
+This text can be saved to a file and read later.
+You can also use this text to practice file operations like reading, writing, and counting occurrences of words.
+You can also use this text to practice file operations like reading, writing, and counting occurrences of words.
+This is a sample text file for practice.
+It can be used for various purposes, such as testing algorithms or practicing file handling.
+You can also use this text to practice file operations like reading, writing, and counting occurrences of words.
+This is a sample text file for practice.
+It can be used for various purposes, such as testing algorithms or practicing file handling.
+You can also use this text to practice file operations like reading, writing, and counting occurrences of words.
+This is a sample text file for practice.
+It can be used for various purposes, such as testing algorithms or practicing file handling.
+You can also use this text to practice file operations like reading, writing, and counting occurrences of words.
