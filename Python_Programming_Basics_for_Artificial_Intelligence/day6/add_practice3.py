@@ -6,7 +6,7 @@ def append_to_file(filename, data):
         print(f"Data '{data}' appended to {filename}.")
 
 # Example usage
-practice3 = r"Python_Programming_Basics_for_Artificial_Intelligence/Day6/practice3.txt"
+practice3 = "practice3.txt"
 data = input("Enter the data to append: ") + dt.datetime.now().strftime(" %d-%m-%Y %H:%M:%S")
 
 while True:
