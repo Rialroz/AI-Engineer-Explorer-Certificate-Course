@@ -8,6 +8,6 @@ def count_occurrences(filename, word):
         print(f"File {filename} not found!")
 
 # Example usage
-practice2 = r"Python_Programming_Basics_for_Artificial_Intelligence/Day6/practice2.txt"
+practice2 = "practice2.txt"
 word = input("Enter the word to count: ")
 count_occurrences(practice2, word)
